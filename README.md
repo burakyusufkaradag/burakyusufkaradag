@@ -31,12 +31,12 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable and hi
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4Lorean2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Lorean2&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakyusufkaradag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyusufkaradag&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Lorean2&theme=tokyonight" alt="4Lorean2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakyusufkaradag&theme=tokyonight" alt="burakyusufkaradag" />
 </p>
 
 ---
