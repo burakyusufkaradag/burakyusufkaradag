@@ -51,9 +51,24 @@ Ben, ölçeklenebilir ve yüksek performanslı web uygulamaları geliştirmeye o
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakyusufkaradag&theme=tokyonight&border_radius=10" alt="burakyusufkaradag" />
 </p>
+---
 
+### 📊 Performans ve Aktivite
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakyusufkaradag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyusufkaradag&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakyusufkaradag&theme=tokyonight&area=true&hide_border=true&border_radius=10" width="100%" />
+</p>
+
+---
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
+</p
+  
+  >
